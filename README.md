@@ -1,4 +1,7 @@
-## ✅ Step‑by‑Step: Adding the README.md to Your GitHub Repo
+# 🌟 Damini Karankal | Portfolio Website
+
+![Portfolio Screenshot](./public/screenshot.png)  
+*A modern developer portfolio built with React.js and Tailwind CSS*
 
 ### 1. Clone Your Repo *(if you haven’t already)*
 
