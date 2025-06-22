@@ -1,6 +1,6 @@
 # 🌟 Damini Karankal | Portfolio Website
 
-![Portfolio Screenshot](./public/screenshot.png)  
+![Portfolio Screenshot](./public/Screenshot 2025-06-22 232257)  
 *A modern developer portfolio built with React.js and Tailwind CSS*
 
 ### 1. Clone Your Repo *(if you haven’t already)*
