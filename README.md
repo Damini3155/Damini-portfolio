@@ -16,7 +16,7 @@ This is my portfolio site, where creativity meets clean code.
 
 ## 🔗 Live Demo
 
-🎯 [daminiportfolio.netlify.app](https://daminiportfolio.netlify.app)
+🎯 [daminikarankalportfolio.app](https://daminikarankalportfolio.netlify.app/)
 
 ---
 
@@ -82,7 +82,7 @@ When I'm not coding, you’ll find me sketching interfaces or reading about the 
 
 * 🔗 GitHub: [@Damini3155](https://github.com/Damini3155)
 * 💼 LinkedIn: [damini-karankal](https://linkedin.com/in/damini-karankal)
-* 🌐 Portfolio: [daminiportfolio.netlify.app](https://daminiportfolio.netlify.app)
+* 🌐 Portfolio: [daminiportfolio.netlify.app](https://daminikarankalportfolio.netlify.app)
 
 ---
 
